@@ -1,4 +1,4 @@
-Employee = {"Name": "Sumit", "Age": 32, "Salary": 26000, "Company": "Google"}
+Employee = {"Name": "x", "Age": 32, "Salary": 26000, "Company": "Google"}
 
 print(type(Employee))
 print("printing employee data...")
